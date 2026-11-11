@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\TicketToRide.ClientCore",
+    "\\src\\TicketToRide.Server",
+    "\\src\\TicketToRide.Shared",
+    "\\src\\TicketToRide.TestClient"
+  ],
+  "SelectedNode": "\\src\\TicketToRide.Shared",
+  "PreviewInSolutionExplorer": false
+}
